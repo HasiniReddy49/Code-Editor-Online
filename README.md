@@ -15,25 +15,7 @@ The Online Code Editor is a user-friendly web-based tool project designed for de
 
 ![css](https://github.com/ashin-coder/online-code-editor/assets/73836674/66d38d72-9813-4765-a823-733cc406f89b)
 
-* JavaScript Compilation
-
-![js](https://github.com/ashin-coder/online-code-editor/assets/73836674/39f0f1df-8d1a-4172-acd2-b237b4e1c46c)
-
-![js_2](https://github.com/ashin-coder/online-code-editor/assets/73836674/095a1009-057c-4765-a64c-07d4f2c7b0a1)
-
 *
-
-## Acknowledgments
-
-I would like to thank the developers and contributors of HTML, CSS and JavaScript, as well as the CodeMirror, a JavaScript component used in this project, for providing the tools and resources and also those who provided the knowledge and support to make this Online Code Editor project possible. The icon used in this project was sourced from Flaticon, a platform for high-quality icons. I appreciate the creator of this icon for their work
-
-## Limitations
-
-**Please Note**: The current implementation of the Online Code Editor project has a limitation in terms of its supported languages. It is specifically designed to work with HTML, CSS, and JavaScript only. While these languages cover a wide range of web development needs, it does mean that other programming languages are not supported within the editor also, the project currently supports only single-page development.
-
-Additionally, the editor has a specific constraint related to JavaScript (JS) functionality. It supports JavaScript code execution only when written inside functions. This means that JavaScript code should be enclosed within function blocks for it to be executed and produce the desired results within the editor. Any standalone JavaScript code outside of functions may not be executed or behave as expected.
-
-Considering this constraint, it is recommended to adhere to writing JavaScript code within function blocks while utilizing the editor's capabilities for JavaScript development. This ensures that the JavaScript functionality is properly interpreted and executed within the editor environment. It is important to keep these limitations in mind when working with the editor. 
 
 
 
